@@ -1,0 +1,33 @@
+/*------------------------------------------------------------------------
+# "Hot Simple Contact" WordPress plugin
+# Copyright (C) 2014 HotThemes. All Rights Reserved.
+# License: http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+# Author: HotThemes
+# Website: http://hot-themes.com
+-------------------------------------------------------------------------*/
+ 
+.hot_simple_contact_error {
+	color: red;
+}
+
+.hot_simple_contact_sent {
+	color: green;
+	margin-bottom: 1em;
+}
+
+.hot_simple_contact_intro {
+	margin-bottom: 1em;
+}
+
+.hot_simple_contact_after {
+	margin: 1em 0;
+}
+
+input.simple_contact, textarea.simple_contact {
+	margin-bottom: 1em;
+}
+
+.simple_contact_contact_fields input[type="text"], .simple_contact_contact_fields input[type="email"], .simple_contact_contact_fields textarea {
+	width: 100%;
+	display: inline-block;
+}

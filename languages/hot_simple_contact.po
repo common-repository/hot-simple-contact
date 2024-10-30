@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hot Simple Contact\n"
+"POT-Creation-Date: 2014-12-30 17:35+0100\n"
+"PO-Revision-Date: 2014-12-30 17:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: HotThemes <info@hot-themes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hot_simple_contact.php:194 hot_simple_contact.php:571
+msgid "Please enter your name!"
+msgstr ""
+
+#: hot_simple_contact.php:205 hot_simple_contact.php:582
+msgid "Please enter your e-mail address!"
+msgstr ""
+
+#: hot_simple_contact.php:211 hot_simple_contact.php:588
+msgid "You entered an invalid e-mail address!"
+msgstr ""
+
+#: hot_simple_contact.php:223 hot_simple_contact.php:600
+msgid "Please enter message subject!"
+msgstr ""
+
+#: hot_simple_contact.php:234 hot_simple_contact.php:611
+msgid "Please enter a message!"
+msgstr ""
+
+#: hot_simple_contact.php:255 hot_simple_contact.php:632
+msgid "Your anti-spam answer is not correct!"
+msgstr ""
+
+#: hot_simple_contact.php:342
+msgid "Hot Simple Contact Options"
+msgstr ""
+
+#: hot_simple_contact.php:347
+msgid "Maximum width"
+msgstr ""
+
+#: hot_simple_contact.php:357
+msgid "Intro text"
+msgstr ""
+
+#: hot_simple_contact.php:366
+msgid "Show name"
+msgstr ""
+
+#: hot_simple_contact.php:375
+msgid "Show subject"
+msgstr ""
+
+#: hot_simple_contact.php:384
+msgid "Show anti-spam question"
+msgstr ""
+
+#: hot_simple_contact.php:393
+msgid "Anti-spam question"
+msgstr ""
+
+#: hot_simple_contact.php:402
+msgid "Anti-spam answer"
+msgstr ""
+
+#: hot_simple_contact.php:411
+msgid "After text"
+msgstr ""
+
+#: hot_simple_contact.php:420
+msgid "Save Changes"
+msgstr ""
+
+#: hot_simple_contact.php:426
+msgid ""
+"<h2>Instructions</h2>\n"
+"\t\t\t\t<p>There are several ways to include Hot Simple Contact on your "
+"site. We will explain them here:</p>\n"
+"\t\t\t\t<ol>\n"
+"\t\t\t\t<li>If you want to use contact form as a widget, go to Appearance "
+"&gt; Widgets and drop Hot Simple Contact widget in any widget postion. Open "
+"it here to see all the parameters. The contact form will appear in a widget "
+"position of your theme.</li>\n"
+"\t\t\t\t<li>You can insert the Hot Simple Contact directly to your post(s) "
+"using shortcode and use the parameters set in this page. To do this, enter "
+"this shortcode anywhere in your post(s): <b>{simplecontact}{/simplecontact}</"
+"b></li>\n"
+"\t\t\t\t<li>You also set the parameters directly in shortcode. In this case, "
+"the format of shortcode is:<br/><b>{simplecontact}Some intro text,noname,"
+"nosubject,noantispam,Some after text{/simplecontact}</b><br/><br/>In this "
+"example name, subject and anti-spam fields are disabled. Use this format to "
+"enable them:<br/><b>{simplecontact}Some intro text,name,subject,antispam,"
+"Some after text{/simplecontact}</b></li>\n"
+"\t\t\t\t</ol>\n"
+"\t\t\t\t"
+msgstr ""
+
+#: hot_simple_contact.php:479 hot_simple_contact.php:485
+msgid "Hot Simple Contact"
+msgstr ""
+
+#: hot_simple_contact.php:641
+msgid "E-mail sent! Thank you!<br/>"
+msgstr ""
+
+#: hot_simple_contact.php:650
+msgid "Your name"
+msgstr ""
+
+#: hot_simple_contact.php:652
+msgid "Your e-mail"
+msgstr ""
+
+#: hot_simple_contact.php:654
+msgid "Subject"
+msgstr ""
+
+#: hot_simple_contact.php:656
+msgid "Message"
+msgstr ""
+
+#: hot_simple_contact.php:658
+msgid "Send"
+msgstr ""
+
+#: hot_simple_contact.php:700
+msgid "Title:"
+msgstr ""
+
+#: hot_simple_contact.php:705
+msgid "Maximum width: "
+msgstr ""
+
+#: hot_simple_contact.php:707
+msgid "Enter dimension and unit (in example \"200px\" or \"100%\" or \"auto\")"
+msgstr ""
+
+#: hot_simple_contact.php:711
+msgid "Text before the contact form:"
+msgstr ""
+
+#: hot_simple_contact.php:716
+msgid "Show name: "
+msgstr ""
+
+#: hot_simple_contact.php:718 hot_simple_contact.php:726
+#: hot_simple_contact.php:734
+msgid "Yes"
+msgstr ""
+
+#: hot_simple_contact.php:719 hot_simple_contact.php:727
+#: hot_simple_contact.php:735
+msgid "No"
+msgstr ""
+
+#: hot_simple_contact.php:724
+msgid "Show subject: "
+msgstr ""
+
+#: hot_simple_contact.php:732
+msgid "Show anti-spam question: "
+msgstr ""
+
+#: hot_simple_contact.php:740
+msgid "Anti-spam question:"
+msgstr ""
+
+#: hot_simple_contact.php:745
+msgid "Anti-spam answer:"
+msgstr ""
+
+#: hot_simple_contact.php:750
+msgid "Text after the contact form:"
+msgstr ""
